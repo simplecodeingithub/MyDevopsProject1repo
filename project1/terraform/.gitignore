@@ -1,0 +1,88 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+*.tfstate.backup.*
+*.tfstate.d
+
+# Ignore .terraform directory
+.terraform/
+
+# Ignore .tfvars files that may contain sensitive variables
+*.tfvars
+
+# Ignore .terraform.lock.hcl file
+terraform.lock.hcl
+
+# Ignore any .tfplan files
+*.tfplan
+
+# Ignore any local backup files
+*~
+
+# Ignore any local editor configuration files
+*.swp
+*.swo
+*.swn
+*.swm
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore .vscode directory (if using Visual Studio Code)
+.vscode/
+
+# Ignore .idea directory (if using IntelliJ IDEA)
+.idea/
+
+# Ignore any log files
+*.log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
